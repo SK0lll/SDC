@@ -1,3 +1,8 @@
+Fork of Simple Discord Crypt (https://gitlab.com/An0/SimpleDiscordCrypt) (All credit goes to the original creator An0)
+
+
+
+
 <h1 align="center">
     <img src="https://gitlab.com/An0/SimpleDiscordCrypt/-/avatar" height="50" width="50">
     SimpleDiscordCrypt
